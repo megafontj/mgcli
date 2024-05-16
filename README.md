@@ -1,4 +1,4 @@
-# Megafon CLI running and installing microservices  
+# Megafon CLI for running and installing microservices  
 
 This `setup.sh` file install and run all microservices.
 
